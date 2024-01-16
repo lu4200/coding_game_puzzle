@@ -1,4 +1,4 @@
-**Repository of all the https://www.codingame.com 's puzzles that i've done.**
+**Repository of all the coding_game's puzzles that i've done.**
 
 check it : 
 
